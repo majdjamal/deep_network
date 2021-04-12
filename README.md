@@ -7,11 +7,9 @@ Multilayer Perceptron with k Hidden Layers, built from scratch using NumPy. You 
 Hidden Layer values are computed with ReLU (eq. 1) and output probabilities with Softmax (eq. 2). The architecture is demonstrated in Figure 1. 
 
 <img src="https://i.ibb.co/fXNnNbn/Ska-rmavbild-2021-04-12-kl-21-31-21.png" width="350" height="65">
-[eq. 1 ReLU]
 
 
 <img src="https://i.ibb.co/ZG6ghz8/Ska-rmavbild-2021-04-12-kl-21-32-55.png" width="350" height="100">
-[eq. 2 Softmax]
 
 
 <img src="https://i.ibb.co/D4cX5Xm/layers.png" width="410" height="250">
